@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: e91da9621de709a4db8c9a33b6d11651
+timeCreated: 1450996617
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bone_001
+    100002: Bone_002
+    100004: Bone_003
+    100006: Bone_004
+    100008: Bone_005
+    100010: Bone_006
+    100012: Bone_007
+    100014: Bone_008
+    100016: Bone_009
+    100018: Bone_010
+    100020: Bone_011
+    100022: Bone_012
+    100024: Bone_013
+    100026: Bone_014
+    100028: Bone_015
+    100030: Bone_016
+    100032: Bone_10
+    100034: Bone_11
+    100036: Bone_12
+    100038: Bone_13
+    100040: Bone_14
+    100042: Bone_15
+    100044: Bone_16
+    100046: Bone_17
+    100048: Bone_2
+    100050: Bone_3
+    100052: Bone_4
+    100054: Bone_5
+    100056: Bone_6
+    100058: Bone_7
+    100060: Bone_8
+    100062: Bone_9
+    100064: inner_arm
+    100066: inner_arm_0
+    100068: //RootNode
+    100070: outer_arm
+    100072: outer_arm_0
+    100074: RotatorBone
+    100076: RotatorBone_0
+    100078: solar_panel_000
+    100080: solar_panel_001
+    100082: solar_panel_armature_000
+    100084: solar_panel_armature_001
+    400000: Bone_001
+    400002: Bone_002
+    400004: Bone_003
+    400006: Bone_004
+    400008: Bone_005
+    400010: Bone_006
+    400012: Bone_007
+    400014: Bone_008
+    400016: Bone_009
+    400018: Bone_010
+    400020: Bone_011
+    400022: Bone_012
+    400024: Bone_013
+    400026: Bone_014
+    400028: Bone_015
+    400030: Bone_016
+    400032: Bone_10
+    400034: Bone_11
+    400036: Bone_12
+    400038: Bone_13
+    400040: Bone_14
+    400042: Bone_15
+    400044: Bone_16
+    400046: Bone_17
+    400048: Bone_2
+    400050: Bone_3
+    400052: Bone_4
+    400054: Bone_5
+    400056: Bone_6
+    400058: Bone_7
+    400060: Bone_8
+    400062: Bone_9
+    400064: inner_arm
+    400066: inner_arm_0
+    400068: //RootNode
+    400070: outer_arm
+    400072: outer_arm_0
+    400074: RotatorBone
+    400076: RotatorBone_0
+    400078: solar_panel_000
+    400080: solar_panel_001
+    400082: solar_panel_armature_000
+    400084: solar_panel_armature_001
+    4300000: solar_panel_001
+    4300002: solar_panel_000
+    7400000: Default Take
+    7400002: ExpandSolarPanels
+    7400004: ExpandSolarPanels_003
+    7400006: ExpandSolarPanels_004
+    7400008: solar_panel_armatureAction
+    9500000: //RootNode
+    13700000: solar_panel_000
+    13700002: solar_panel_001
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ExpandSolarPanels
+      takeName: ExpandSolarPanels
+      firstFrame: -1
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: solar_panel_000
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000/inner_arm_0
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000/inner_arm_0/outer_arm_0
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000/inner_arm_0/outer_arm_0/RotatorBone_0
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000/inner_arm_0/outer_arm_0/RotatorBone_0/Bone_2
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000/inner_arm_0/outer_arm_0/RotatorBone_0/Bone_3
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000/inner_arm_0/outer_arm_0/RotatorBone_0/Bone_4
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000/inner_arm_0/outer_arm_0/RotatorBone_0/Bone_5
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000/inner_arm_0/outer_arm_0/RotatorBone_0/Bone_6
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000/inner_arm_0/outer_arm_0/RotatorBone_0/Bone_7
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000/inner_arm_0/outer_arm_0/RotatorBone_0/Bone_8
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000/inner_arm_0/outer_arm_0/RotatorBone_0/Bone_9
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000/inner_arm_0/outer_arm_0/RotatorBone_0/Bone_10
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000/inner_arm_0/outer_arm_0/RotatorBone_0/Bone_11
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000/inner_arm_0/outer_arm_0/RotatorBone_0/Bone_12
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000/inner_arm_0/outer_arm_0/RotatorBone_0/Bone_13
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000/inner_arm_0/outer_arm_0/RotatorBone_0/Bone_14
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000/inner_arm_0/outer_arm_0/RotatorBone_0/Bone_15
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000/inner_arm_0/outer_arm_0/RotatorBone_0/Bone_16
+        weight: 1
+      - path: solar_panel_000/solar_panel_armature_000/inner_arm_0/outer_arm_0/RotatorBone_0/Bone_17
+        weight: 1
+      - path: solar_panel_001
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001/inner_arm
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001/inner_arm/outer_arm
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001/inner_arm/outer_arm/RotatorBone
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001/inner_arm/outer_arm/RotatorBone/Bone_001
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001/inner_arm/outer_arm/RotatorBone/Bone_002
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001/inner_arm/outer_arm/RotatorBone/Bone_003
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001/inner_arm/outer_arm/RotatorBone/Bone_004
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001/inner_arm/outer_arm/RotatorBone/Bone_005
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001/inner_arm/outer_arm/RotatorBone/Bone_006
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001/inner_arm/outer_arm/RotatorBone/Bone_007
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001/inner_arm/outer_arm/RotatorBone/Bone_008
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001/inner_arm/outer_arm/RotatorBone/Bone_009
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001/inner_arm/outer_arm/RotatorBone/Bone_010
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001/inner_arm/outer_arm/RotatorBone/Bone_011
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001/inner_arm/outer_arm/RotatorBone/Bone_012
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001/inner_arm/outer_arm/RotatorBone/Bone_013
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001/inner_arm/outer_arm/RotatorBone/Bone_014
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001/inner_arm/outer_arm/RotatorBone/Bone_015
+        weight: 1
+      - path: solar_panel_001/solar_panel_armature_001/inner_arm/outer_arm/RotatorBone/Bone_016
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 75
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
