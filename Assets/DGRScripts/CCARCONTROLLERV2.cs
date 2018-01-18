@@ -190,7 +190,7 @@ namespace GoogleARCore.HelloAR
 
         public AudioSource audiosource;
         public AudioClip turnoff;
-        public AudioClip bang;
+        public AudioSource bang;
 
 
 

@@ -59,7 +59,7 @@ public class LanderCollision : MonoBehaviour {
             {
                 
             controller.landerdestroyed = true;
-            controller.audiosource.PlayOneShot(controller.bang);
+            controller.bang.Play();
             exploder.Explode();
             Destroy(gameObject);
 
